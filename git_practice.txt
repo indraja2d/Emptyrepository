@@ -1,0 +1,167 @@
+   31  git inti
+   32  git init
+   33  git clone
+   45  git add
+   46  git add indu
+   54  git status
+   57  git clone git@github.com:indraja2d/indudoc.git
+   59  git clone git@github.com:indraja2d/indudoc.git
+   60  git clone git@github.com:indraja2d/indudoc.gitgit clone git@github.com:indraja2d/indudoc.git
+   61  git clone git@github.com:indraja2d/indudoc.git
+   62  git clone git@github.com:indraja2d/indudoc.git
+   64  git clone 
+   65  $ git clone git@github.com:indraja2d/indudoc.git
+   67  git@github.com: Permission denied (publickey).
+   68  git clone https://github.com/indraja2d/indudoc.git
+   76  git versiton
+   77  git version
+   78  git config --global user.name "Indu_practice"
+   79  git config --global user.email "indraja2d@gmail.com"
+   80  git config --list
+   95  git config --global user.name "indraja2d"
+   96  git config --global user.email "indraja2d@gmail.com"
+   98  git --global list
+   99  git config list
+  100  git config --list
+  101  git config --global color.ui true
+  102  git config --list
+  103  git add -to dd files
+  104  git status
+  110  git show demo.py
+  116  git push /g/Reading meterial/git_tutorial.pdf' indraja2d
+  117  git push /g/Reading meterial/git_tutorial.pdf' 
+  118  git push /g/Reading meterial/git_tutorial.pdf'
+  119  git push origin master
+  121  git push --help
+  122  git branch
+  124  git log
+  129  git show 
+  130  git show 421b84b5e6d33c71258b07e93dd12acd80f1c6d6 
+  133  git init
+  136  git init
+  137  ls .git
+  138  git branch
+  139  git branch master
+  144  git branch master
+  145  git branch
+  146  git indu
+  147  git branch indu
+  148  git branch chekout indu
+  149  git checkout master
+  150  ls .git
+  153  git --help push
+  154  git --help pull
+  163  git init deo-project
+  168  cd .git/
+  173  git status
+  177  git add /c/Users/LAP/Downloads/git_hands_on.pdf
+  182  git 2-jan.txt 
+  183  git status
+  184  git add 2-jan.txt 
+  186  git status
+  188  git commit -m "hello haii"
+  192  git commit
+  203  git push origin master
+  208  git version
+  209  git config --global user.name "indraja2d"
+  210  git config --global user.email "indraja2d@gmail.com"
+  211  git --list
+  212  git config --global --list
+  213  git clone https://github.com/indraja2d/indudoc.git
+  215  git status
+  219  git status
+  220  git add test.txt 
+  221  git cmmit -m "hell first one commit"
+  222  git status
+  226  git push origin master
+  227  git pull --rebase origin master
+  228  git pull --rebase
+  229  git config --global pull.rebase true
+  230  git config --global rebase.autostash true
+  231  git pull
+  232  git push -u origin master
+  234  git init
+  236  git init
+  239  git rm First.txt 
+  241  git rm -rf First.txt 
+  245  mkdir Practice_git_test1
+  247  cd Practice_git_test1/
+  257  git init
+  258  git add .
+  260  git add fisrt.txt second.txt third.txt 
+  263  git status
+  265  git commit -m "my first trail project"
+  267  git status
+  268  git remote add origin https://github.com/indraja2d/Emptyrepository.git
+  269  git push -u origin master
+  270  git push -u origin master
+  274  git status
+  276  git add fisrt.txt 
+  278  git status
+  279  git commit -m "changed trailed practice project"
+  280  git status
+  281  git push origin master
+  282  git branch
+  283  ls .git
+  286  cd .git
+  295  git logs
+  296  git log
+  297  cd .git
+  298  git status
+  303  git status
+  304  git diff 70630ce4ed57ba3598d96d6f274041ff8cdc3472
+  305  git show 70630ce4ed57ba3598d96d6f274041ff8cdc3472
+  306  git show 70630ce4ed57ba3598d96d6f274041ff8cdc3472
+  307  git push origin master
+  308  git psuh flipkart master
+  309  git pshh flipkart master
+  310  git push flipkart master
+  311  sudo git push origin master
+  313  git clone https://github.com/indraja2d/Emptyrepository.git
+  320  git pull
+  321  git pull
+  327  git status
+  329  git add .
+  331  git status
+  332  git commit -m "i added one more filr into emptyrepository"
+  333  git status
+  334  git push
+  335  git push origin master
+  336  git status
+  337  git pull
+  338  git push origin master
+  339  git pull origin master
+  340  git branch
+  341  git branch feature
+  342  git branch
+  343  git branch indraja
+  344  git branch
+  345  git checkout feature
+  346  git status
+  347  git branch
+  348  git branch indraja
+  350  git branch
+  351  git checkout master
+  352  git branch indraja
+  353  git branch indraja
+  354  git branch indu
+  355  git branch
+  356  git checkout indu
+  357  git commit -m "this my commit in master to indu branch"
+  358  git push origin master
+  359  git branch
+  360  git checkout master
+  361  git branch
+  362  git merge indu
+  363  git branch
+  364  git push origin master
+  365  git pull origin master
+  366  git push origin master
+  367  git status
+  368  git add .
+  369  git commit -m "modified"
+  370  git push origin master
+  371  history | grep git
+  373  history | grep git
+  374  history | grep git >> git.txt
+  375  history | grep git >> git_practice.txt
